@@ -1,0 +1,22 @@
+{
+  "name": "logger",
+  "version": "1.0.0",
+  "description": "A beautiful platform-agnostic CLI and API progress monitor for Android Virtual Device (AVD) creation and generic download tracking",
+  "main": "index.js",
+  "bin": {
+    "logger": "./bin/index.js"
+  },
+  "keywords": [
+    "android",
+    "cli",
+    "emulator",
+    "avd",
+    "progress",
+    "monitor",
+    "download",
+    "logger"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {}
+}
