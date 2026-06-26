@@ -9,13 +9,13 @@ It can automatically discover active task log files on your system, parse custom
 You can run it directly using `npx`:
 
 ```bash
-npx logger
+npx @pribbledev/logger
 ```
 
 Or install it globally:
 
 ```bash
-npm install -g logger
+npm install -g @pribbledev/logger
 ```
 
 ## Usage
